@@ -1,0 +1,25 @@
+body {
+      transition: background-color 0.3s ease, color 0.3s ease;
+    }
+    button, a {
+      user-select: none;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+    }
+
+/* ini bagian member */
+.section-title {
+    font-size: 2.25rem;
+    font-weight: 700;
+    text-align: center;
+    color: rgb(82, 22, 224);
+    margin-bottom: 0.5rem;
+} 
+
+.section-subtitle {
+    font-size: 1.125rem;
+    text-align: center;
+    color: #121216;
+    margin-bottom: 2rem;
+}
